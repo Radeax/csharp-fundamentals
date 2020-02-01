@@ -73,6 +73,8 @@ namespace Puzzles
     public static double TossMultipleCoins(int num)
     {
       int heads = 0;
+
+      // Toss coins n times
       for (int n = num; n > 0; n--)
       {
         if (TossCoin() == "Heads")
@@ -80,6 +82,8 @@ namespace Puzzles
           heads++;
         }
       }
+
+      // Find and return heads ratio
       double headRatio = (double)heads / (double)num;
       return headRatio;
     }
