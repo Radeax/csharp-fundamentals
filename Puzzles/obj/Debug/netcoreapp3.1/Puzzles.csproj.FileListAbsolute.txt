@@ -1,0 +1,11 @@
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.csprojAssemblyReference.cache
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.AssemblyInfoInputs.cache
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.AssemblyInfo.cs
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.exe
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.deps.json
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.runtimeconfig.json
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.runtimeconfig.dev.json
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.dll
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Puzzles\bin\Debug\netcoreapp3.1\Puzzles.pdb
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.dll
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Puzzles\obj\Debug\netcoreapp3.1\Puzzles.pdb
