@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Puzzles
 {
@@ -8,6 +9,11 @@ namespace Puzzles
     {
       RandomArray();
       Console.WriteLine(TossMultipleCoins(4));
+
+      foreach (string name in Names())
+      {
+        Console.WriteLine(name);
+      }
     }
 
     public static void RandomArray()
@@ -86,6 +92,44 @@ namespace Puzzles
       // Find and return heads ratio
       double headRatio = (double)heads / (double)num;
       return headRatio;
+    }
+
+    // Create a list with the values: Todd, Tiffany, Charlie, Geneva, Sydney
+    // Shuffle the list and print the values in the new order
+    // Return a list that only includes names longer than 5 characters
+    public static List<string> Names()
+    {
+      Random rand = new Random();
+      List<string> names = new List<string>();
+      List<string> shuffled = new List<string>();
+      List<string> shortNames = new List<string>();
+
+      // Add names to List
+      names.Add("Todd");
+      names.Add("Tiffany");
+      names.Add("Charlie");
+      names.Add("Geneva");
+      names.Add("Sydney");
+
+      // Shuffle list
+      while (names.Count > 0)
+      {
+        shuffled.Add(names[rand.Next(0, names.Count)]);
+        names.Remove(shuffled[shuffled.Count - 1]);
+      }
+
+      // Print out shuffled names and create list of names with 5 or less characters
+      foreach (string name in shuffled)
+      {
+        Console.WriteLine(name);
+
+        if (name.Length <= 5)
+        {
+          shortNames.Add(name);
+        }
+      }
+
+      return shortNames;
     }
   }
 }
