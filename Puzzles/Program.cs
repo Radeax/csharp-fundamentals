@@ -7,11 +7,7 @@ namespace Puzzles
     static void Main(string[] args)
     {
       RandomArray();
-      TossCoin();
-      TossCoin();
-      TossCoin();
-      TossCoin();
-      TossCoin();
+      Console.WriteLine(TossMultipleCoins(4));
     }
 
     public static void RandomArray()
@@ -57,7 +53,7 @@ namespace Puzzles
       string coin = "";
       Random rand = new Random();
 
-      Console.WriteLine("Tossing a coin!");
+      Console.Write("Tossing a coin! - ");
 
       // Check 'Heads' or 'Tails'
       if (rand.Next(1, 3) == 1)
@@ -72,6 +68,20 @@ namespace Puzzles
       // Print and return result
       Console.WriteLine(coin);
       return coin;
+    }
+
+    public static double TossMultipleCoins(int num)
+    {
+      int heads = 0;
+      for (int n = num; n > 0; n--)
+      {
+        if (TossCoin() == "Heads")
+        {
+          heads++;
+        }
+      }
+      double headRatio = (double)heads / (double)num;
+      return headRatio;
     }
   }
 }
