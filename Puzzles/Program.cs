@@ -7,9 +7,14 @@ namespace Puzzles
     static void Main(string[] args)
     {
       RandomArray();
+      TossCoin();
+      TossCoin();
+      TossCoin();
+      TossCoin();
+      TossCoin();
     }
 
-    static void RandomArray()
+    public static void RandomArray()
     {
       Random rand = new Random();
       int min = new int();
@@ -45,6 +50,28 @@ namespace Puzzles
       Console.WriteLine($"Min: {min}");
       Console.WriteLine($"Max: {max}");
       Console.WriteLine($"Sum: {sum}");
+    }
+
+    public static string TossCoin()
+    {
+      string coin = "";
+      Random rand = new Random();
+
+      Console.WriteLine("Tossing a coin!");
+
+      // Check 'Heads' or 'Tails'
+      if (rand.Next(1, 3) == 1)
+      {
+        coin = "Heads";
+      }
+      else
+      {
+        coin = "Tails";
+      }
+
+      // Print and return result
+      Console.WriteLine(coin);
+      return coin;
     }
   }
 }
