@@ -1,6 +1,6 @@
 namespace HungryNinja
 {
-  class Food : IConsumable
+  class Drink : IConsumable
   {
     public string Name { get; set; }
     public int Calories { get; set; }
@@ -8,9 +8,9 @@ namespace HungryNinja
     public bool IsSweet { get; set; }
     public string GetInfo()
     {
-      return $"{Name} (Food).  Calories: {Calories}.  Spicy?: {IsSpicy}, Sweet?: {IsSweet}";
+      return $"{Name} (Drink).  Calories: {Calories}.  Spicy?: {IsSpicy}, Sweet?: {IsSweet}";
     }
-    public Food(string name, int cal, bool spicy, bool sweet)
+    public Drink(string name, int cal, bool spicy, bool sweet)
     {
       Name = name;
       Calories = cal;

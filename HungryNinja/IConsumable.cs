@@ -4,8 +4,8 @@ namespace HungryNinja
   {
     string Name { get; set; }
     int Calories { get; set; }
-    bool isSpicy { get; set; }
-    bool isSweet { get; set; }
+    bool IsSpicy { get; set; }
+    bool IsSweet { get; set; }
     string GetInfo();
   }
 }
