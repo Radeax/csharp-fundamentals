@@ -1,0 +1,11 @@
+C:\Users\Radeax\Web Dev\csharp-fundamentals\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.exe
+C:\Users\Radeax\Web Dev\csharp-fundamentals\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.deps.json
+C:\Users\Radeax\Web Dev\csharp-fundamentals\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.runtimeconfig.json
+C:\Users\Radeax\Web Dev\csharp-fundamentals\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.runtimeconfig.dev.json
+C:\Users\Radeax\Web Dev\csharp-fundamentals\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.dll
+C:\Users\Radeax\Web Dev\csharp-fundamentals\HungryNinja\bin\Debug\netcoreapp3.1\HungryNinja.pdb
+C:\Users\Radeax\Web Dev\csharp-fundamentals\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.csprojAssemblyReference.cache
+C:\Users\Radeax\Web Dev\csharp-fundamentals\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.AssemblyInfoInputs.cache
+C:\Users\Radeax\Web Dev\csharp-fundamentals\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.AssemblyInfo.cs
+C:\Users\Radeax\Web Dev\csharp-fundamentals\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.dll
+C:\Users\Radeax\Web Dev\csharp-fundamentals\HungryNinja\obj\Debug\netcoreapp3.1\HungryNinja.pdb
