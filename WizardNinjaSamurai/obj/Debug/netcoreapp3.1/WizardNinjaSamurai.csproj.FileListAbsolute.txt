@@ -1,0 +1,11 @@
+C:\Users\Radeax\Web Dev\csharp-fundamentals\WizardNinjaSamurai\bin\Debug\netcoreapp3.1\WizardNinjaSamurai.exe
+C:\Users\Radeax\Web Dev\csharp-fundamentals\WizardNinjaSamurai\bin\Debug\netcoreapp3.1\WizardNinjaSamurai.deps.json
+C:\Users\Radeax\Web Dev\csharp-fundamentals\WizardNinjaSamurai\bin\Debug\netcoreapp3.1\WizardNinjaSamurai.runtimeconfig.json
+C:\Users\Radeax\Web Dev\csharp-fundamentals\WizardNinjaSamurai\bin\Debug\netcoreapp3.1\WizardNinjaSamurai.runtimeconfig.dev.json
+C:\Users\Radeax\Web Dev\csharp-fundamentals\WizardNinjaSamurai\bin\Debug\netcoreapp3.1\WizardNinjaSamurai.dll
+C:\Users\Radeax\Web Dev\csharp-fundamentals\WizardNinjaSamurai\bin\Debug\netcoreapp3.1\WizardNinjaSamurai.pdb
+C:\Users\Radeax\Web Dev\csharp-fundamentals\WizardNinjaSamurai\obj\Debug\netcoreapp3.1\WizardNinjaSamurai.csprojAssemblyReference.cache
+C:\Users\Radeax\Web Dev\csharp-fundamentals\WizardNinjaSamurai\obj\Debug\netcoreapp3.1\WizardNinjaSamurai.AssemblyInfoInputs.cache
+C:\Users\Radeax\Web Dev\csharp-fundamentals\WizardNinjaSamurai\obj\Debug\netcoreapp3.1\WizardNinjaSamurai.AssemblyInfo.cs
+C:\Users\Radeax\Web Dev\csharp-fundamentals\WizardNinjaSamurai\obj\Debug\netcoreapp3.1\WizardNinjaSamurai.dll
+C:\Users\Radeax\Web Dev\csharp-fundamentals\WizardNinjaSamurai\obj\Debug\netcoreapp3.1\WizardNinjaSamurai.pdb
