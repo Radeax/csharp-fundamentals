@@ -26,7 +26,7 @@ namespace TerminalRpgEncounter
     public int Strength;
     public int Intelligence;
     public int Dexterity;
-    private int health;
+    protected int health;
 
     public int Health
     {
@@ -51,10 +51,44 @@ namespace TerminalRpgEncounter
       health = hp;
     }
 
-    public int Attack(Human target)
+    public virtual int Attack(Human target)
     {
-      target.health -= Strength * 5;
+      int damage = Strength * 5;
+      target.health -= damage;
       return target.health;
+    }
+  }
+
+  class Ninja : Human
+  {
+    public Ninja(string name) : base(name)
+    {
+      Dexterity = 175;
+    }
+  }
+
+  class Wizard : Human
+  {
+    public Wizard(string name) : base(name)
+    {
+      health = 50;
+      Intelligence = 25;
+    }
+
+    public override int Attack(Human target)
+    {
+      int damage = Intelligence * 5;
+      target.health -= damage;
+
+
+    }
+  }
+
+  class Samurai : Human
+  {
+    public Samurai(string name) : base(name)
+    {
+      health = 200;
     }
   }
 
