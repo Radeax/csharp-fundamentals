@@ -1,0 +1,11 @@
+C:\Users\Radeax\Web Dev\csharp-fundamentals\IronNinja\bin\Debug\netcoreapp3.1\IronNinja.exe
+C:\Users\Radeax\Web Dev\csharp-fundamentals\IronNinja\bin\Debug\netcoreapp3.1\IronNinja.deps.json
+C:\Users\Radeax\Web Dev\csharp-fundamentals\IronNinja\bin\Debug\netcoreapp3.1\IronNinja.runtimeconfig.json
+C:\Users\Radeax\Web Dev\csharp-fundamentals\IronNinja\bin\Debug\netcoreapp3.1\IronNinja.runtimeconfig.dev.json
+C:\Users\Radeax\Web Dev\csharp-fundamentals\IronNinja\bin\Debug\netcoreapp3.1\IronNinja.dll
+C:\Users\Radeax\Web Dev\csharp-fundamentals\IronNinja\bin\Debug\netcoreapp3.1\IronNinja.pdb
+C:\Users\Radeax\Web Dev\csharp-fundamentals\IronNinja\obj\Debug\netcoreapp3.1\IronNinja.csprojAssemblyReference.cache
+C:\Users\Radeax\Web Dev\csharp-fundamentals\IronNinja\obj\Debug\netcoreapp3.1\IronNinja.AssemblyInfoInputs.cache
+C:\Users\Radeax\Web Dev\csharp-fundamentals\IronNinja\obj\Debug\netcoreapp3.1\IronNinja.AssemblyInfo.cs
+C:\Users\Radeax\Web Dev\csharp-fundamentals\IronNinja\obj\Debug\netcoreapp3.1\IronNinja.dll
+C:\Users\Radeax\Web Dev\csharp-fundamentals\IronNinja\obj\Debug\netcoreapp3.1\IronNinja.pdb
