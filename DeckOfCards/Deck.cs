@@ -19,5 +19,12 @@ namespace DeckOfCards
         }
       }
     }
+
+    public Card Deal()
+    {
+      Card card = cards[0];
+      cards.RemoveAt(0);
+      return card;
+    }
   }
 }
