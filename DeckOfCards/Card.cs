@@ -4,8 +4,8 @@ namespace DeckOfCards
 {
   class Card
   {
-    string _stringVal;
-    string _suit;
+    public string _stringVal;
+    public string _suit;
     int _val;
 
     public Card(string stringVal, string suit, int val)
