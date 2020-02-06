@@ -18,5 +18,12 @@ namespace DeckOfCards
       hand.Add(deck.Deal());
       return hand[hand.Count];
     }
+
+    public Card Discard(int cardIdx)
+    {
+      Card card = hand[cardIdx];
+      hand.Remove(card);
+      return card;
+    }
   }
 }
