@@ -5,6 +5,19 @@ namespace DeckOfCards
 {
   class Deck
   {
-    List<Card> cards;
+    List<Card> cards = new List<Card>();
+    List<string> suit = new List<string> { "Clubs", "Spades", "Hearts", "Diamonds" };
+    List<string> stringVal = new List<string> { "Ace", "2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King" };
+
+    public Deck()
+    {
+      for (int i = 0; i < 3; i++)
+      {
+        for (int val = 0; val < 12; val++)
+        {
+          cards.Add(new Card(stringVal[val], suit[i], val + 1));
+        }
+      }
+    }
   }
 }
