@@ -32,5 +32,18 @@ namespace DeckOfCards
         }
       }
     }
+
+    public void Shuffle()
+    {
+      List<Card> shuffledDeck = new List<Card>;
+      Random rand = new Random();
+      while (cards.Count > 0)
+      {
+        int randomIdx = rand.Next(0, cards.Count);
+        shuffledDeck.Add(cards[randomIdx]);
+        cards.RemoveAt(randomIdx);
+      }
+      cards = shuffledDeck;
+    }
   }
 }
