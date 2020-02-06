@@ -1,0 +1,11 @@
+C:\Users\Radeax\Web Dev\csharp-fundamentals\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.csprojAssemblyReference.cache
+C:\Users\Radeax\Web Dev\csharp-fundamentals\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\Radeax\Web Dev\csharp-fundamentals\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.AssemblyInfo.cs
+C:\Users\Radeax\Web Dev\csharp-fundamentals\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.exe
+C:\Users\Radeax\Web Dev\csharp-fundamentals\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.deps.json
+C:\Users\Radeax\Web Dev\csharp-fundamentals\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.runtimeconfig.json
+C:\Users\Radeax\Web Dev\csharp-fundamentals\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.runtimeconfig.dev.json
+C:\Users\Radeax\Web Dev\csharp-fundamentals\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.dll
+C:\Users\Radeax\Web Dev\csharp-fundamentals\DeckOfCards\bin\Debug\netcoreapp3.1\DeckOfCards.pdb
+C:\Users\Radeax\Web Dev\csharp-fundamentals\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.dll
+C:\Users\Radeax\Web Dev\csharp-fundamentals\DeckOfCards\obj\Debug\netcoreapp3.1\DeckOfCards.pdb
