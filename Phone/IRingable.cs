@@ -4,5 +4,6 @@ namespace Phone
   {
     string Ring();
     string Unlock();
+    void DisplayInfo();
   }
 }

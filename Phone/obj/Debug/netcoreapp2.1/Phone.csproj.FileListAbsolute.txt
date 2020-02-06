@@ -1,0 +1,10 @@
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Phone\obj\Debug\netcoreapp2.1\Phone.csprojAssemblyReference.cache
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Phone\obj\Debug\netcoreapp2.1\Phone.AssemblyInfoInputs.cache
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Phone\obj\Debug\netcoreapp2.1\Phone.AssemblyInfo.cs
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Phone\bin\Debug\netcoreapp2.1\Phone.deps.json
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Phone\bin\Debug\netcoreapp2.1\Phone.runtimeconfig.json
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Phone\bin\Debug\netcoreapp2.1\Phone.runtimeconfig.dev.json
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Phone\bin\Debug\netcoreapp2.1\Phone.dll
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Phone\bin\Debug\netcoreapp2.1\Phone.pdb
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Phone\obj\Debug\netcoreapp2.1\Phone.dll
+C:\Users\Radeax\Web Dev\csharp-fundamentals\Phone\obj\Debug\netcoreapp2.1\Phone.pdb
