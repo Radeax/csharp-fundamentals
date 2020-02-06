@@ -12,5 +12,11 @@ namespace DeckOfCards
     {
       name = Name;
     }
+
+    public Card Draw(Deck deck)
+    {
+      hand.Add(deck.Deal());
+      return hand[hand.Count];
+    }
   }
 }
