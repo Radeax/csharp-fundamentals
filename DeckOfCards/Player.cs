@@ -6,7 +6,7 @@ namespace DeckOfCards
   class Player
   {
     string name;
-    List<Card> hand;
+    public List<Card> hand = new List<Card>();
 
     public Player(string Name)
     {
@@ -16,7 +16,7 @@ namespace DeckOfCards
     public Card Draw(Deck deck)
     {
       hand.Add(deck.Deal());
-      return hand[hand.Count];
+      return hand[hand.Count - 1];
     }
 
     public Card Discard(int cardIdx)
