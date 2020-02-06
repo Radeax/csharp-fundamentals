@@ -11,13 +11,7 @@ namespace DeckOfCards
 
     public Deck()
     {
-      for (int i = 0; i < 3; i++)
-      {
-        for (int val = 0; val < 12; val++)
-        {
-          cards.Add(new Card(stringVal[val], suit[i], val + 1));
-        }
-      }
+
     }
 
     public Card Deal()
@@ -25,6 +19,18 @@ namespace DeckOfCards
       Card card = cards[0];
       cards.RemoveAt(0);
       return card;
+    }
+
+    public void Reset()
+    {
+      cards = new List<Card>();
+      for (int i = 0; i < 3; i++)
+      {
+        for (int val = 0; val < 12; val++)
+        {
+          cards.Add(new Card(stringVal[val], suit[i], val + 1));
+        }
+      }
     }
   }
 }
