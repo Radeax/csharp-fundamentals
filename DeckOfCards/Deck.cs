@@ -11,7 +11,7 @@ namespace DeckOfCards
 
     public Deck()
     {
-
+      Reset();
     }
 
     public Card Deal()
@@ -35,7 +35,7 @@ namespace DeckOfCards
 
     public void Shuffle()
     {
-      List<Card> shuffledDeck = new List<Card>;
+      List<Card> shuffledDeck = new List<Card>();
       Random rand = new Random();
       while (cards.Count > 0)
       {
